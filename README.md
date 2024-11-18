@@ -1,4 +1,12 @@
-Opeva Dataset generator   
+Opeva Dataset generator
+
+This repository was created to help and guide in the setup and startup of the Dataset generator refered in the article "FlexiGen: Stochastic Dataset Generator for Electric Vehicle Charging Energy Flexibility".
+
+Setup & Startup:
+- Install Python
+- Install Python libraries: pip install pandas numpy scipy
+- Setup the Config variables mentioned in the README table
+- Start the script OFFICE/HOME 
 
 *Configurable Variables*
 
